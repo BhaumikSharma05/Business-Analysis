@@ -47,7 +47,7 @@ It enables business teams to monitor performance, track growth, and identify str
 - Documentation outlining calculation logic and KPIs  
 
 ## 🖼️ Dashboard Preview
-![Excel Dashboard Preview](images/ExcelDashboard.png)
+![Excel Dashboard Preview]
 
 ## 👨‍💼 Author
 Developed by **Bhaumik Sharma**  
